@@ -1,0 +1,38 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    width: 100%;
+    height:100%;
+}
+#main{
+
+    height: 100%;
+    width:100%;
+    background-color: blanchedalmond;
+    align-items: center;
+}
+p[draggable="true"]{
+    color:red;
+    color: aquamarine;
+}
+.note{
+        color:violet;
+
+}
+*{
+    text-align: center;
+}
+#random{
+
+    height: 100px;
+    width:500px;
+}
+img{
+    height: 400px;
+    width: 300px;
+   position: absolute;
+}
